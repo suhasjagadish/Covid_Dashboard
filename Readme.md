@@ -1,1 +1,1 @@
-![](Covid_Dashboard/Screenshot.png)
+![](Screenshot.png)
