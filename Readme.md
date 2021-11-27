@@ -1,1 +1,1 @@
-<img src = "Covid_Dashboard/Screenshot.png">
+![](Covid_Dashboard/Screenshot.png)
