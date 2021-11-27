@@ -1,1 +1,1 @@
-<img src = "C:\Users\A\Pictures\Screenshots\Screenshot.png">
+<img src = "Covid_Dashboard/Screenshot.png">
