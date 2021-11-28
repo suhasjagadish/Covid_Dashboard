@@ -37,9 +37,7 @@ These made a little easy to draw the outcomes of the analysis.
 4. As per the analysis **South** zone is more affected during the pandemic in which Kerala, TamilNadu and Karnataka are the major contributers.
 5. According to the data Maharashtra, Kerala, Karnataka, Tamilnadu recorded more number os cases compared to its peers and Punjab, Nagaland, Uttarakand and Maharashtra has more death percentage. 
 6. Population could be the major reason for the increase in the Covid-19 cases as states with more population are more prone to the cases or deaths and states with minimal population are less prone to cases and casualities.
->>>>>>> Stashed changes
 
 ## Outlook of the interactive Dashboard
-<<<<<<< Updated upstream
 ![](Screenshot.png)
 =======
